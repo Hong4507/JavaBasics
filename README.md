@@ -1,1 +1,15 @@
 # JavaBasics
+- Methods
+- Primitive Data Types
+- Primitive Wrapper Classes
+- Operators
+- If-Else Statement
+- Switch Statement  
+- For Loop
+- Advanced For Loop
+- While Loop
+- Try-Catch
+- Instance of SecondClass
+- Array
+- ArrayList
+- HashMap

@@ -141,11 +141,11 @@ public class Main {
 
         }
 
-        //LinkedList
+        //LinkedList?????
         List<Integer> llist = new LinkedList<Integer>();
 
 
-        //HashMap (Linked HashMap??)
+        //HashMap
         HashMap<Integer, String> map = new HashMap<>();
         map.put(1, "Alpha");
         map.put(2, "Beta");
@@ -159,7 +159,7 @@ public class Main {
 
         }
 
-        //LinkedHashMap
+        //LinkedHashMap?????
         LinkedHashMap<Integer, String> lmap = new LinkedHashMap<>();
 
 
